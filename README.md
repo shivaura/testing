@@ -1,2 +1,2 @@
 # testing
-this repository is just for the testing purposes
+This repository is just for the testing purposes.
